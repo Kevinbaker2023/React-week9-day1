@@ -31,6 +31,10 @@
     margin: 1rem
 }
 
+.read-btn {
+    width: 8rem
+}
+
 label {
     margin: .5rem;
     font-size: 1.3rem;
